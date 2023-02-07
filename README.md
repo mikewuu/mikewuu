@@ -1,7 +1,5 @@
 # Hello, they call me Mike. 👋
 
----
-
 I code for work, but mostly for joy. I'm proficient in  JS, TS, and BS. Also dabble in innocuous amounts of PHP, Swift, Kotlin, Python, and Java (when I have to). 
 
 <!--
