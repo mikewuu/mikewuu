@@ -1,4 +1,4 @@
-### Hello, I'm mike. 👋
+### Hello, they call me Mike. 👋
 
 <!--
 **mikewuu/mikewuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
