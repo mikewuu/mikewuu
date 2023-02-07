@@ -1,4 +1,4 @@
-## Hello, they call me Mike. 👋
+# Hello, they call me Mike. 
 
 ---
 
