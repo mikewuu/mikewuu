@@ -1,6 +1,6 @@
 # Hello, they call me Mike. 👋
 
-I code for work, but mostly for joy. I'm proficient in  JS, TS, and BS. I also dabble in innocuous amounts of PHP, Swift, Kotlin, Python, and Java (when I have to). I am also an aspiring order muppet.
+I code for work, but mostly for joy. I'm proficient in  JS, TS, and BS. I also dabble in innocuous amounts of PHP, Swift, Kotlin, Python, and Java (when I have to). Aspiring order muppet.
 
 <!--
 **mikewuu/mikewuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
